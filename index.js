@@ -10,6 +10,7 @@ function theBeatlesPlay(a1,a2) {
 }
 
 function johnLennonFacts (facts) {
+  vari = 0;
   while (facts[i]) {
     facts[i] = facts[i] + "!!!";
     i++;
