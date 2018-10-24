@@ -10,8 +10,9 @@ function theBeatlesPlay(a1,a2) {
 }
 
 function johnLennonFacts (facts) {
-  while (car[i]) {
-    car[i] = car[i] + "!!!";
+  while (facts[i]) {
+    facts[i] = facts[i] + "!!!";
     i++;
   }
+  return 
 }
