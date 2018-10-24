@@ -8,3 +8,10 @@ function theBeatlesPlay(a1,a2) {
   }
   return strings;
 }
+
+function johnLennonFacts (facts) {
+  while (car[i]) {
+    console.log(facts[i]);
+    i++;
+  }
+}
