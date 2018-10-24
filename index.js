@@ -11,7 +11,7 @@ function theBeatlesPlay(a1,a2) {
 
 function johnLennonFacts (facts) {
   while (car[i]) {
-    console.log(facts[i]);
+    car[i] = car[i] + "!!!";
     i++;
   }
 }
